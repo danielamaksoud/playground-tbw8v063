@@ -3,7 +3,11 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+t = 6*24; # 6 dias em horas
+
+b = 2**(t/12); # expressão do cálculo do número de bactérias
+
+print(b);
 ```
 
 # Advanced usage
